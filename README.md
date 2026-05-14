@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Matru Prasad Mishra 👋
 
-<!--
-**Matruftc/Matruftc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on **money-spend-tracker** and **Project-ZORO**.
+- ⚡ Skills: **Java, Python, SQL (Snowflake), and Kotlin**.
+- 📍 Based in Odisha, India.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Stats
+![Matru's Stats](https://github-readme-stats.vercel.app/api?username=Matruftc&show_icons=true&theme=dark)
